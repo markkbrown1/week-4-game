@@ -1,0 +1,14 @@
+body {background: url(http://ichef.bbci.co.uk/news/1024/media/images/70405000/jpg/_70405852_e4250997-diamonds-spl.jpg);
+	
+}
+
+.rules.col-md-8 {
+	background-color: lightgrey;
+	padding: 10;
+	border:1px solid;
+}
+
+.crystal-image {
+      width: 300px;
+      height: 300px;
+    }
