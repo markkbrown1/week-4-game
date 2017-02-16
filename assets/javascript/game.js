@@ -94,7 +94,7 @@
           reset();
 
         }
-        else ( crystalCount > targetNumber)
+        else if ( crystalCount > targetNumber){
         losses++;
         loser();
           reset();
